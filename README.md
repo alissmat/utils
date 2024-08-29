@@ -1,2 +1,2 @@
 # utils
-A set of modules that are useful for various projects
+A set of modules that are useful for various projects.
